@@ -1,3 +1,7 @@
+# reference
+https://www.edaboard.com/showthread.php?69740-Difference-between-USART-and-SPI
+
+# 
 The Serial Peripheral Interface Bus or SPI (often pronounced like "spy") bus is a very loose standard for controlling almost any digital electronics that accepts a clocked serial stream of bits. A nearly identical standard called "Microwire" is a restricted subset of SPI.
 
 SPI is cheap, in that it does not take up much space on an integrated circuit, and effectively multiplies the pins, the expensive part of the IC. It can also be implemented in software with a few standard IO pins of a microcontroller.
